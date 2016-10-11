@@ -21,17 +21,22 @@ If you take the [CodeAcademy Python course](https://www.codecademy.com/learn/pyt
 
 ### Linux / Shell / Bash / Unix
 I would go straight for the online tutorial on this one. There's not terribly much you need to know to get started.
+
 ##### Tutorials
  - [Learn Shell](http://www.learnshell.org/) - All you need to get the basics down pat
+
 ##### Books
  - [*Linux Command Line*](http://amzn.to/2e6rDUT)
  - [*Classic Shell Scripting*](http://amzn.to/2dtuIwY)
  - [*Sed & Awk*](http://amzn.to/2e6sKUx) - Not pure bash, but a drill down into two very handy tools that let you powerfully edit text
+
 ### Git and GitHub
 Version control systems let you create a repository of code so you can see all changes you make, annotate changes, collaborate without fear of conflicts, etc. The easiest way to see the benefit is to try it out. One such system for version control is `git` and the central repository for many such repositories is [GitHub](https://github.com/).
+
 ##### Tutorials
  - [Try Git](https://try.github.io/) - Free and very good introduction to git and GitHub
  - [CodeAcademy's Learn Git](https://www.codecademy.com/learn/learn-git) - CodeAcademy has a mix of free and paid tutorials for basic and advance usage of git
+
 ##### How to Contribute to GitHub Projects
  - [Beginner's guide to contributing to a GitHub project](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
  - [Contribute to someone's repository](http://kbroman.org/github_tutorial/pages/fork.html)
