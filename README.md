@@ -23,7 +23,8 @@ If you take the [CodeAcademy Python course](https://www.codecademy.com/learn/pyt
 I would go straight for the online tutorial on this one. There's not terribly much you need to know to get started.
 
 ##### Tutorials
- - [Learn Shell](http://www.learnshell.org/) - All you need to get the basics down pat
+ - [Learn the Command Line](https://www.codecademy.com/en/learn/learn-the-command-line) - A good basic introduction from Code Academy
+ - [Learn Shell](http://www.learnshell.org/) - Some more advanced bash wizardy
 
 ##### Books
  - [*Linux Command Line*](http://amzn.to/2e6rDUT)
